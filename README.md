@@ -1,1 +1,1 @@
-# wordle-today
+# crossword-today
